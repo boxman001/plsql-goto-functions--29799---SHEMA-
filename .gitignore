@@ -1,0 +1,17 @@
+# Oracle / SQL Developer
+*.log
+*.trc
+*.dmp
+*.tmp
+
+# SQL Developer user files
+*.sqldeveloper
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Windows temporary files
+*.tmp
+*.temp
